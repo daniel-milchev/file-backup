@@ -2,7 +2,7 @@
 
 # Eclipse Kanto - File Backup
 
-[![Coverage](https://github.com/daniel-milchev/file-backup/wiki/coverage.svg)](#)
+[![Coverage](https://github.com/eclipse-kanto/file-backup/wiki/coverage.svg)](#)
 
 ## Overview
 
